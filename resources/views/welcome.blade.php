@@ -169,7 +169,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       </div>
 
       <div class="w3-half">
-        <img src="Portrain.png" style="width:100%">
+        <img src="Portrait.png" style="width:100%">
         <img src="penguin.png" style="width:100%">
         <img src="ace.png" style="width:100%">
         <img src="saturn.png" style="width:100%">
